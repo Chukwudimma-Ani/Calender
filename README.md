@@ -2,7 +2,7 @@
   Check out my Website <br/>
   <a href="https://chukwudimma.vercel.app/" target="_blank">Chukwudimma</a>
 </h2>
-<div align="center">
+<div font-size = "60">
 <a href ="https://chukwudimma-ani.github.io/Calender/"> check out the Live demo</a>
 </div>
 

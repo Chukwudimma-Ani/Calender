@@ -1,0 +1,26 @@
+@media (prefers-color-scheme:light) {
+    html{
+        background-color: white;
+    }
+}
+
+@media (prefers-color-scheme:Dark) {
+    html{
+        background-color: black;
+        color: #fff;
+    }
+}
+html:hover :nth-child(6){
+    background-color: blue;
+}
+#navbar{
+    position: fixed;
+    top: 90%;
+    
+}
+#items{
+    padding-left: 15%;
+}
+#navbar:hover{
+    background-color: #fff;
+}
